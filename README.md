@@ -1,2 +1,2 @@
-# hello-world
-Hello world for starting out
+# Hello World Project
+Hi, this is a readme file I am editing.
